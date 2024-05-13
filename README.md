@@ -7,3 +7,6 @@
 - git remote add origin https://github.com/'username'/nomedorepositorio.git
 - git push --set-upstream origin master
 - git push
+
+
+- commit mais atual será nomeado "commit Adição Passo a Passo"
